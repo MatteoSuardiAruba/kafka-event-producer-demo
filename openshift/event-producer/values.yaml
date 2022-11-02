@@ -50,7 +50,7 @@ service:
 
 route:
   enabled: true
-  host: event-producer.apps.cluster-jk9lf.sandbox2121.opentlc.com
+  host: event-producer.apps.cls01.poc.local
   tls: true
 
 resources: {}
